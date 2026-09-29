@@ -11,10 +11,10 @@ This project transforms raw gift retail data into actionable business intelligen
 ---
 
 ## 📊 Key Insights
-* **Top Revenue Drivers:** **Anniversary** and **Raksha Bandhan** lead seasonal sales by occasion, while the **"Colors"** category dominates overall product category revenue[cite: 1].
-* **Peak Performance Months:** Sales experience massive spikes during **February** and **August**[cite: 1].
-* **Customer Metrics:** Achieved an average customer spend of **₹3,520.98** across 1,000 total orders with an average delivery time of 5.53[cite: 1].
-* **Top Products:** High-demand items like the **Magnam Set** and **Quia Gift** rank among the top-performing products[cite: 1].
+* **Top Revenue Drivers:** **Anniversary** and **Raksha Bandhan** lead seasonal sales by occasion, while the **"Colors"** category dominates overall product category revenue.
+* **Peak Performance Months:** Sales experience massive spikes during **February** and **August**.
+* **Customer Metrics:** Achieved an average customer spend of **₹3,520.98** across 1,000 total orders with an average delivery time of 5.53.
+* **Top Products:** High-demand items like the **Magnam Set** and **Quia Gift** rank among the top-performing products.
 
 ---
 
